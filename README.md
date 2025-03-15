@@ -2,3 +2,4 @@ Currently working on:
 - Ash0, Ethel0, and Empty0 programming languages
 - Quietcoin crypto
 - 100doom
+- Calc AI (v1)
