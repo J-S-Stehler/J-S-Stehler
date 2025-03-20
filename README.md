@@ -1,5 +1,4 @@
-Currently working on:
-- Ash0, Ethel0, and Empty0 programming languages
+Projects (in progress or future):
 - Quietcoin crypto
-- 100doom
-- Calc AI (v1)
+- Calc AI v1
+- Ash0 Programming language
